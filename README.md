@@ -8,7 +8,7 @@ Today I learned
 ##### 1월 12일
   - 취업 관련 사이트
     
-    1. 자소설 닷컴 : [링크](https://jasoseol.com/)
+    1. [자소설닷컴](https://jasoseol.com/)
     
     2. 사람인
     
